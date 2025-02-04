@@ -451,7 +451,7 @@ main p:not([class]) {
     .imagenDeLado2 img {
     width: 150px;
     align-self: flex-start;
-      order: -1;
+    order: -1;
     }
     
     .imagenDeLado2 p {
